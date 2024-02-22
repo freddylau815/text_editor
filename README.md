@@ -16,7 +16,7 @@ Link to code: [Text Editor](https://github.com/freddylau815/text_editor)
 
 ## Usage
 
-Link to site: [J.A.T.E.](https://drive.google.com/file/d/10LAzp4GjJb_NPn4NixIa5pjQxgwRzkyO/view?usp=drive_link)
+Link to site: [J.A.T.E.](https://text-editor-zkzd.onrender.com/)
 
 ## License
 
